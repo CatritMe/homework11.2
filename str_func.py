@@ -3,5 +3,5 @@ def get_upper(value):
     return value.upper()
 
 def get_title(value):
-    '''первые буквы в заглавные'''
+    '''переводим первые буквы в заглавные'''
     return value.title()
